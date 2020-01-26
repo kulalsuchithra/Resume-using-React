@@ -1,0 +1,57 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.outer{
+    widows: 200px;
+    height: 500px;
+    border: 2px solid black;
+    margin: 1px auto;
+
+}
+b{
+    font-size: 20px;
+    
+}
+
+.border{
+    width: 100%;
+    padding: 5px;
+    background-color: rebeccapurple;
+    border: 1px solid black;
+    
+}
+
+.border1{
+    width: 100%;
+    padding: 5px;
+    background-color:rgb(82, 76, 67);
+    font-size: 20px;
+}
+
+.border2{
+    width: 100%;
+    padding: 5px;
+    background-color:pink;
+    font-size: 20px;
+}
+.border3{
+    width: 100%;
+    padding: 5px;
+    background-color:rgb(69, 82, 67);
+    font-size: 20px;
+}
+
+.border4{
+    width: 100%;
+    padding: 5px;
+    background-color:rgb(82, 67, 67);
+    font-size: 20px;
+}
+.border5{
+    width: 100%;
+    padding: 5px;
+    background-color:blueviolet;
+    font-size: 20px;
+}
